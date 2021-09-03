@@ -1,2 +1,5 @@
-# Linguagem-de-Programacao
-Repositório dos programas desenvolvidos no curso de Linguagem de Programação (ECT2303)
+# Linguagem de Programação
+
+Os arquivos dos programas estão separados por pastas em que cada uma se refere a uma lista diferente.
+
+Outros programas são 
